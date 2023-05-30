@@ -1,3 +1,6 @@
+This is my portfolio. I update it every now and then. The latest version of this website has been hosted on chinmay-g.netlify.app
+
+
 CReating basic function component : rafce
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
